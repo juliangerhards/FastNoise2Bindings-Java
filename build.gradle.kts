@@ -7,7 +7,7 @@ group = "org.github.fastnoise"
 version = "0.0.1"
 
 java.toolchain {
-    languageVersion.set(JavaLanguageVersion.of(24))
+    languageVersion.set(JavaLanguageVersion.of(23))
 }
 
 repositories {
